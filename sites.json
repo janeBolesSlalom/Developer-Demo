@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Customer Portal",
+    "image": "https://via.placeholder.com/400x250/00A1E0/FFFFFF?text=Customer+Portal",
+    "description": "A comprehensive self-service portal for customers to manage accounts, track orders, and access support resources.",
+    "link": "#"
+  },
+  {
+    "title": "Partner Community",
+    "image": "https://via.placeholder.com/400x250/00A1E0/FFFFFF?text=Partner+Community",
+    "description": "Collaborative workspace for partners to access resources, share best practices, and drive mutual success.",
+    "link": "#"
+  },
+  {
+    "title": "Employee Hub",
+    "image": "https://via.placeholder.com/400x250/00A1E0/FFFFFF?text=Employee+Hub",
+    "description": "Central hub for employees to access company information, collaborate with teams, and manage workflows.",
+    "link": "#"
+  },
+  {
+    "title": "Knowledge Base",
+    "image": "https://via.placeholder.com/400x250/00A1E0/FFFFFF?text=Knowledge+Base",
+    "description": "Searchable knowledge repository with articles, FAQs, and documentation for users and administrators.",
+    "link": "#"
+  }
+]
