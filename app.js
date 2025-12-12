@@ -84,8 +84,11 @@ function createTile(site) {
   link.className = 'tile-link';
   link.href = site.link;
   link.textContent = 'View Site';
-  link.target = '_blank';
-  link.rel = 'noopener noreferrer';
+  // Only open in new tab if not a placeholder link
+  if (site.link && site.link !== '#') {
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+  }
   
   content.appendChild(title);
   content.appendChild(description);
